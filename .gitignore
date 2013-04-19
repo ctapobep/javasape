@@ -1,0 +1,10 @@
+.svn
+.idea
+target
+out
+tags
+lib
+
+.project
+.classpath
+*.class
